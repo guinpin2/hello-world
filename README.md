@@ -1,2 +1,2 @@
 # hello-world
-following github tutorial
+Doing as it says https://guides.github.com/activities/hello-world/#repository
